@@ -1,0 +1,16 @@
+D:\GitHub\TestParadigma\Tarefa_3\bin\Debug\net5.0\Tarefa_3.exe
+D:\GitHub\TestParadigma\Tarefa_3\bin\Debug\net5.0\Tarefa_3.deps.json
+D:\GitHub\TestParadigma\Tarefa_3\bin\Debug\net5.0\Tarefa_3.runtimeconfig.json
+D:\GitHub\TestParadigma\Tarefa_3\bin\Debug\net5.0\Tarefa_3.runtimeconfig.dev.json
+D:\GitHub\TestParadigma\Tarefa_3\bin\Debug\net5.0\Tarefa_3.dll
+D:\GitHub\TestParadigma\Tarefa_3\bin\Debug\net5.0\ref\Tarefa_3.dll
+D:\GitHub\TestParadigma\Tarefa_3\bin\Debug\net5.0\Tarefa_3.pdb
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.csprojAssemblyReference.cache
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.AssemblyInfoInputs.cache
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.AssemblyInfo.cs
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.csproj.CoreCompileInputs.cache
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.dll
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\ref\Tarefa_3.dll
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.pdb
+D:\GitHub\TestParadigma\Tarefa_3\obj\Debug\net5.0\Tarefa_3.genruntimeconfig.cache
